@@ -1,6 +1,6 @@
 {
   "name": "box-win",
-  "version": "1.0.0",
+  "version": "1.0.1-1",
   "description": "window box by vue3",
   "main": "index.js",
   "scripts": {
