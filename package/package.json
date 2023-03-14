@@ -1,0 +1,28 @@
+{
+  "name": "box-win",
+  "version": "1.0.0",
+  "description": "window box by vue3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "box-win",
+    "win-box",
+    "window",
+    "box",
+    "box-win-vue3"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnoyeb/box-win"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "dnoyeb",
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "^3.2.0"
+  }
+}
