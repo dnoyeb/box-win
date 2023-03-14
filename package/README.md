@@ -3,7 +3,7 @@
 一款基于vue3的仿windows弹窗。
 可以组件模板编写或函数式创建。
 
-![Image text](https://img-blog.csdnimg.cn/20201014180756738.png?x-oss-process=image/resize,m_fixed,h_64,w_64)
+![Image text](https://github.com/dnoyeb/box-win/blob/master/img/box-win.gif)
 
 ## 安装
 
